@@ -9,6 +9,10 @@ out/
 
 # Docs
 docs/
-
+remappings.txt
+lib/
+node_modules/
+package-lock.json
+package.json
 # Dotenv file
 .env
